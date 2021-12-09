@@ -9,6 +9,7 @@
 <div class="img">
 <img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg"> 
  img {text-align: center;}
+ <h1> Dasmoto's Arts & Crafts </h1>
  // Fundera om jag ska sätta bilderna här istället?
 </style>
 </div>
