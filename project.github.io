@@ -12,6 +12,7 @@
  // Fundera om jag ska sätta bilderna här istället?
 </style>
 </div>
+</body>
 <br>
 
 
