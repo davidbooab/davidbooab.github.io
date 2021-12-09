@@ -13,7 +13,7 @@
  // Fundera om jag ska sätta bilderna här istället?
 </style>
 </div>
-</body>
+
 <br>
 
 
@@ -37,3 +37,4 @@
 <h1 class="paint">Paint</h2>
 <img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/finnish.jpeg">
 <p class="paínt">Imported paint from Finland. Over 256 colors available in-store, varying in quantity (1 oz. to 8 oz.). Clean Finnish paint microbinds to canvas, increasing the finish and longevity of any artwork.<span style="color: blue"> Starting at $5.00 / tube.</span></p>
+</body>
